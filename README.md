@@ -20,7 +20,7 @@ Help: [MarkDown Help](https://help.github.com/articles/github-flavored-markdown)
   - [RPG](#user-content-rpg)
   - [MMORPG](#user-content-mmorpg)
   - [Strategy](#user-content-strategy)
-  - [Racing](#user-content-racing)
+  - 
   - [Sandbox](#user-content-sandbox)
   - [Puzzle](#user-content-puzzle)
   - [Clicker](#user-content-clicker)
